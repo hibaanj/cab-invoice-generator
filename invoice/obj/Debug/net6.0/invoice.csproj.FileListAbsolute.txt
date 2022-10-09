@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.AssemblyInfo.cs
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\invoice\invoice\bin\Debug\net6.0\invoice.exe
+C:\Users\anjum\source\repos\invoice\invoice\bin\Debug\net6.0\invoice.deps.json
+C:\Users\anjum\source\repos\invoice\invoice\bin\Debug\net6.0\invoice.runtimeconfig.json
+C:\Users\anjum\source\repos\invoice\invoice\bin\Debug\net6.0\invoice.dll
+C:\Users\anjum\source\repos\invoice\invoice\bin\Debug\net6.0\invoice.pdb
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.dll
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\refint\invoice.dll
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.pdb
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\invoice.genruntimeconfig.cache
+C:\Users\anjum\source\repos\invoice\invoice\obj\Debug\net6.0\ref\invoice.dll
